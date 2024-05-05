@@ -1,0 +1,48 @@
+
+.section-form-register {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.card-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-control {
+  padding: 10px;
+  padding-bottom: 12px;
+}
+
+.forget {
+  margin-left: 70px;
+}
+.forget  {
+    text-decoration: none;
+    
+}
+.forget:hover{
+    color: rgb(255, 162, 0);
+    transition: all ease 0.8s;
+}
+
+.section-form-login {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: none;
+}
+.login{
+    display: flex;
+  padding-left: 468px;
+    padding-top: 12px;
+    gap: 40px;
+}
